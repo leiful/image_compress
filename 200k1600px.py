@@ -1,5 +1,6 @@
 from PIL import Image
 import os
+# test test
 
 def compress_images(folder_path, target_size, target_height):
     # 获取文件夹内所有图片文件
